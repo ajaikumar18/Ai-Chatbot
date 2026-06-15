@@ -404,7 +404,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2024 NayePankh Foundation
+Copyright (c) 2024 AJAIKUMAR (Developed for NayePankh Foundation)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -423,39 +423,12 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions from the community! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/amazing-feature`
-3. **Commit** your changes: `git commit -m 'Add amazing feature'`
-4. **Push** to the branch: `git push origin feature/amazing-feature`
-5. **Open** a Pull Request
-
-### Contribution Guidelines
-
-- Follow existing code style and conventions
-- Write descriptive commit messages
-- Add comments for complex logic
-- Test your changes before submitting
-- Update documentation as needed
-
----
-
-## 📞 Contact
-
-**NayePankh Foundation**
-
-| Channel | Details |
-|---------|---------|
-| 🌐 Website | [www.nayepankh.com](https://www.nayepankh.com) |
-| 📧 Email | [info@nayepankh.com](mailto:info@nayepankh.com) |
 | 💬 Platform | [localhost:5000](http://localhost:5000) (local dev) |
 
 ---
 
 <p align="center">
-  Made with 🧡 by <strong>NayePankh Foundation</strong><br>
-  <em>Empowering communities through technology</em>
+  Designed & Developed with 🧡 by <strong>AJAIKUMAR</strong><br>
+  <em>Built for NayePankh Foundation to empower communities through technology</em>
 </p>
